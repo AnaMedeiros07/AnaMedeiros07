@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Ana 👋
+
+Electronics Engineering Student.
+
+🌱 Learning every day 
+
 
 <!--
 **AnaMedeiros07/AnaMedeiros07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
