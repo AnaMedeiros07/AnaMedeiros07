@@ -2,8 +2,7 @@
 
 ### Hi there, I'm Ana 👋
 
-Electronics Engineering Student.
-MSc in Embedded Systems and Computers and Control, Automation and Robotics at University of Minho! 
+Electronics Engineering Student.                                                                                                                          MSc in Embedded Systems and Computers and Control, Automation and Robotics at University of Minho! 
 
 🌱 Learning every day 
 
