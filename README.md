@@ -1,3 +1,5 @@
+!(https://github.com/AnaMedeiros07/AnaMedeiros07/blob/main/banner.gif)
+
 ### Hi there, I'm Ana 👋
 
 Electronics Engineering Student.
