@@ -1,4 +1,4 @@
-!(https://github.com/AnaMedeiros07/AnaMedeiros07/blob/main/banner.gif)
+![Ana Martins](https://github.com/AnaMedeiros07/AnaMedeiros07/blob/main/banner.gif)
 
 ### Hi there, I'm Ana 👋
 
